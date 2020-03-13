@@ -1,0 +1,135 @@
+
+* {
+  font-family:"helvetica", "arial";
+}
+/* aqui le damos estilo general de la pagina */
+
+body {
+  background-color: #D0EFD2;
+  background-image: url("images/background.png");
+  background-repeat: repeat;
+}
+
+h1 {
+font-size: 36px;
+text-align: center;
+color:#37455C;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+  color:#478937;
+}
+h3 {
+  font-size: 24px;
+  text-align: center;
+  color:#37455C;
+}
+/* aqui le damos estilo al grid de las cartas */
+
+
+#todos {
+  display: none;
+}
+
+#selectores {
+  display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+  justify-content: space-between;
+  width: 90%;
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
+#insertcards {
+  width: 90%;
+  max-width: 1240px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  grid-gap: 20px;
+}
+
+@media (min-width: 30em) {
+  #insertcards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 60em) {
+  #insertcards {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.card-image {
+  padding-bottom: 20px;
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+}
+
+
+/* aqui le damos estilo a las cartas */
+
+#card {
+  background: white;
+  text-decoration: none;
+  color: #444;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  min-height: 100%;
+  position: relative;
+  top: 0;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+#card:hover {
+  top: -2px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* estilo elementos del home */
+
+#logo {
+  display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 350px;
+}
+#home {
+  text-align: center;
+}
+
+#buscador {
+    display: block;
+  text-align: center;
+  margin: 0 auto;
+padding: 15px;
+	border: 1px solid #ccc;
+	border-radius: 13px;
+	margin-bottom: 20px;
+	width: 650px;
+	box-sizing: border-box;
+	color: #2C3E50;
+	font-size: 18px;
+}
+
+#link_todos {
+  color: #37455C;
+  border: none;
+  height:auto;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 10px 15px 10px 15px;
+  font-size: 14px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+}

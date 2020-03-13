@@ -2,13 +2,64 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8">
-    <title>Data Lovers</title>
+    <title>Portal Rick and Morty</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="style.css" />
+    <link rel="short cut icon" type="image/x-icon"
+    src="images/pickle.png" />
   </head>
   <body>
-    <div id="root"></div>
-    <script type="module" src="main.js"></script>
+    <main>
+      <div id="home">
+            <img id="logo" src="images/logo.png" />
+            <h1>Bienvenidx al portal de Rick and Morty</h1>
+            <P>Si sabes el nombre de tu personaje, escríbelo aquí</p>
+            <input id="buscador" type="search">
+            <P>Si no sabes el nombre, buscalo aquí:</br><button id="link_todos"> Ver todos los personajes</button></p>
+      </div>
+    </main>
+        <div id="todos">
+          		<div id="selectores">
+
+						<div class="genero">
+
+						          <p>Busca por Genero:
+						          <select id="genero_selector">
+                      <option>Selecciona Genero</option>
+						          <option value="Female">Female</option>
+						          <option value="Male">Male</option>
+						          <option value="unknown">unknown</option>
+						          </select>
+						          </p>
+						</div>
+
+						<div class="especie">
+
+						          <p>Busca por Especie:
+						          <select id="Especie">
+						          <option>Alien</option>
+						          <option>Human</option>
+						          <option>Animal</option>
+						          </select>
+						          </p>
+						</div>
+
+						<div class="estado">
+
+
+						          <p>Busca por Estado:
+						          <select id="Estado">
+						          <option>Alive</option>
+						          <option>Dead</option>
+						          <option>unknown</option>
+						          </select>
+						          </p>
+						</div>
+				</div>
+        		<div id="insertcards"></div>
+        </div>
+    <script src="data.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>
