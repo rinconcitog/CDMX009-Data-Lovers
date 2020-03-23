@@ -13,50 +13,50 @@
     <main>
       <div id="home">
             <img id="logo" src="images/logo.png" />
-            <h1>Bienvenidx al portal de Rick and Morty</h1>
+            <h1>Bienvenidos al portal de Rick and Morty</h1>
             <P>Si sabes el nombre de tu personaje, escríbelo aquí</p>
             <input id="buscador" type="search">
             <P>Si no sabes el nombre, buscalo aquí:</br><button id="link_todos"> Ver todos los personajes</button></p>
       </div>
     </main>
         <div id="todos">
-          		<div id="selectores">
-
+          <div id="selectores">
+            <div id="regresar">← Regresar</div>
 						<div class="genero">
 
 						          <p>Busca por Genero:
 						          <select id="genero_selector">
                       <option>Selecciona Genero</option>
-						          <option value="Female">Female</option>
-						          <option value="Male">Male</option>
-						          <option value="unknown">unknown</option>
+						          <option value="Female">Mujer</option>
+						          <option value="Male">Hombre</option>
+						          <option value="unknown">Indefinido</option>
 						          </select>
 						          </p>
 						</div>
 
 						<div class="especie">
 
-						          <p>Busca por Especie:
-						          <select id="Especie">
-						          <option>Alien</option>
-						          <option>Human</option>
-						          <option>Animal</option>
-						          </select>
-						          </p>
+                      <p>Busca por Especie:
+                      <select id="specie_selector">
+                      <option>Selecciona una Especie</option>
+                      <option value="Alien">Alien</option>
+                      <option value="Human">Humano</option>
+                      <option value="Animal">Animal</option>
+                      </select>
+                      </p>
+						</div>
+          	<div class="estado">
+                     <p>Busca por Estado:
+                    <select id="status_selector">
+                    <option>Selecciona por Estado</option>
+                    <option value="Alive">Vivo</option>
+                    <option value="Dead">Muerto</option>
+                    <option value="unknown">Desconocido</option>
+                    </select>
+                    </p>
 						</div>
 
-						<div class="estado">
-
-
-						          <p>Busca por Estado:
-						          <select id="Estado">
-						          <option>Alive</option>
-						          <option>Dead</option>
-						          <option>unknown</option>
-						          </select>
-						          </p>
-						</div>
-				</div>
+        </div>
         		<div id="insertcards"></div>
         </div>
     <script src="data.js"></script>

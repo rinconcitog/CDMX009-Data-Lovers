@@ -17,7 +17,7 @@ color:#37455C;
 }
 
 p {
-  font-size: 18px;
+  font-size: 17px;
   text-align: center;
   color:#478937;
 }
@@ -41,6 +41,8 @@ h3 {
   width: 90%;
   max-width: 1240px;
   margin: 0 auto;
+  margin-bottom: 10px;
+  margin-top: 30px;
 }
 
 #insertcards {
@@ -132,4 +134,20 @@ padding: 15px;
   padding: 10px 15px 10px 15px;
   font-size: 14px;
     box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+}
+
+#regresar{
+  color: #37455C;
+  background-color: #ffffff;
+  border: none;
+  height:auto;
+  border-radius: 5px;
+  padding: 10px 15px 10px 15px;
+  font-size: 14px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+    width: 80px;
+    height: 20px;
+    margin-top: 10px;
+    cursor: default;
+
 }
