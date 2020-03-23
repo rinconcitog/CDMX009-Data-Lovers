@@ -12,7 +12,7 @@ Teniendo en cuenta cuales podrían ser nuestros posibles usuarios, y siendo un t
 que tenemos de referencia:
 
 Nos facilitan de referencia la lista de los personajes de la serie Rick and Morty donde podemos ver una api con este 
-<img src="src/img/imagen_api.png>
+<img src="src/images/imagen_api.png>
 
 link:https://rickandmortyapi.com/
 
@@ -40,15 +40,15 @@ Para que el usuario complete su busqueda tendrá un buscador, donde introducirá
 
 Aquí la imagen de nuestro prototipo de baja
 
-<img src="src/img/prototipo.png>
+<img src="src/imgages/prototipo.png>
 
 
 MOCKUP DE ALTA FIDELIDAD
 Para poder desarrollar esta parte aplicamos el feedback que nos dieron  nuestras compañeras, así como también tomamos en cuenta usar unos colores un poco mas suaves para el fondo, ya que tendríamos en cuentra que las imagenes de nuestros personajes son muy coloridas. El prototipo se realizó usando la aplicación Figma, donde las dos podríamos entrar y hacer las modificaciones que consideraramos.
 
-<img src="src/img/figma_1.png>
+<img src="src/imgages/figma_1.png>
         
-<img src="src/img/figma_2.png>        
+<img src="src/imgages/figma_2.png>        
         
 
 
