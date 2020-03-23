@@ -12,7 +12,8 @@ Teniendo en cuenta cuales podrían ser nuestros posibles usuarios, y siendo un t
 que tenemos de referencia:
 
 Nos facilitan de referencia la lista de los personajes de la serie Rick and Morty donde podemos ver una api con este 
-<img src="src/images/imagen_api.png>
+
+![Prototipo](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/imagen_api.png)
 
 link:https://rickandmortyapi.com/
 
@@ -22,8 +23,7 @@ INICIO DEL PROYECTO
 Para tener una mayor organización del proyecto, usamos la herramienta trello, donde documentamos lo que se hacía diariamente las tareas terminadas, las que realizariamos ese día, nuestros bloqueos, En ellas también pondríamos fechas límites para culminar la tarea, sino, para continuar con otra tarea para poder ir avanzando en el proyecto.
 Aquí algunas imágenes del trello
 
-<img src="src/img/imagen_api.png>
-          
+ ![Api](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/img/imagen_api.png)         
 
 HISTORIAS DE USUARIO
 
@@ -40,7 +40,7 @@ Para que el usuario complete su busqueda tendrá un buscador, donde introducirá
 
 Aquí la imagen de nuestro prototipo de baja
 
-https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/prototipo.png
+![prototipo] (https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/prototipo.png)
 
 
 MOCKUP DE ALTA FIDELIDAD
