@@ -47,9 +47,9 @@ MOCKUP DE ALTA FIDELIDAD
 Para poder desarrollar esta parte aplicamos el feedback que nos dieron  nuestras compañeras, así como también tomamos en cuenta usar unos colores un poco mas suaves para el fondo, ya que tendríamos en cuentra que las imagenes de nuestros personajes son muy coloridas. El prototipo se realizó usando la aplicación Figma, donde las dos podríamos entrar y hacer las modificaciones que consideraramos.
 
 
-![Figma1](src/images/figma_1.png)
+![Figma1](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/figma_1.png)
 
-![Figma1](src/images/figma_2.png)
+![Figma2](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/figma_2.png)
         
 
 
