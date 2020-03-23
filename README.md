@@ -22,7 +22,8 @@ INICIO DEL PROYECTO
 Para tener una mayor organización del proyecto, usamos la herramienta trello, donde documentamos lo que se hacía diariamente las tareas terminadas, las que realizariamos ese día, nuestros bloqueos, En ellas también pondríamos fechas límites para culminar la tarea, sino, para continuar con otra tarea para poder ir avanzando en el proyecto.
 Aquí algunas imágenes del trello
 
- ![trello](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/img/imagen_trello.png)         
+
+![Trello](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/imagen_trello.png)        
 
 HISTORIAS DE USUARIO
 
@@ -39,12 +40,10 @@ Para que el usuario complete su busqueda tendrá un buscador, donde introducirá
 
 Aquí la imagen de nuestro prototipo de baja
 
-![prototipo] (https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/prototipo.png)
-
+![Prototipo](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/prototipo.png)
 
 MOCKUP DE ALTA FIDELIDAD
 Para poder desarrollar esta parte aplicamos el feedback que nos dieron  nuestras compañeras, así como también tomamos en cuenta usar unos colores un poco mas suaves para el fondo, ya que tendríamos en cuentra que las imagenes de nuestros personajes son muy coloridas. El prototipo se realizó usando la aplicación Figma, donde las dos podríamos entrar y hacer las modificaciones que consideraramos.
-
 
 ![Figma1](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/figma_1.png)
 
