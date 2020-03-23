@@ -40,7 +40,7 @@ Para que el usuario complete su busqueda tendrá un buscador, donde introducirá
 
 Aquí la imagen de nuestro prototipo de baja
 
-<img src="src/images/prototipo.png>
+https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/prototipo.png
 
 
 MOCKUP DE ALTA FIDELIDAD
