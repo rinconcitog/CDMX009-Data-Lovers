@@ -13,7 +13,7 @@ que tenemos de referencia:
 
 Nos facilitan de referencia la lista de los personajes de la serie Rick and Morty donde podemos ver una api con este 
 
-![Prototipo](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/imagen_api.png)
+![Prototipo](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/images/prototipo.png)
 
 link:https://rickandmortyapi.com/
 
