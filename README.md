@@ -22,7 +22,7 @@ INICIO DEL PROYECTO
 Para tener una mayor organización del proyecto, usamos la herramienta trello, donde documentamos lo que se hacía diariamente las tareas terminadas, las que realizariamos ese día, nuestros bloqueos, En ellas también pondríamos fechas límites para culminar la tarea, sino, para continuar con otra tarea para poder ir avanzando en el proyecto.
 Aquí algunas imágenes del trello
 
- ![Api](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/img/imagen_api.png)         
+ ![trello](https://github.com/rinconcitog/CDMX009-Data-Lovers/blob/master/src/img/imagen_trello.png)         
 
 HISTORIAS DE USUARIO
 
